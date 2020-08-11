@@ -1,7 +1,10 @@
-### Hi there 👋
+### Hey, whats up? My name is Juliana Pinto 😺
 
 <!--
 **Juliapp/Juliapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliapp&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
@@ -14,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliapp&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
