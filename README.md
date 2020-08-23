@@ -1,19 +1,29 @@
-### Hey, whats up? My name is Juliana Pinto 😺
+<img height="40" align="right" src="https://octodex.github.com/images/nyantocat.gif">
+<h2 align="center"> Hey, whats up? I am Juliana Pinto  </h2>
 
-<!--
-**Juliapp/Juliapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+      English   |     <a href="README-pt.md">Português</a>
+ </p>
+ 
+ </br>
+<!--<img width="500" align="right" src="https://media1.tenor.com/images/4fbdf5a686e9c241e8f56d06c8902241/tenor.gif">-->
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliapp&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="500" align="right" src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif">
+ 
+  ```javascript
+const developer = {
+    nickName: "Juli",
+    pronouns: ["She", "Her"],
+    from: "Brazil, Bahia",
+    lenguages: ["Portuguese ", "English"],
+    favoriteDataStructure: "JSON",
+    favoriteCodeEditor: "VS Code",
+    favoriteIceCreamFlavor: "Vanilla",
+    pets: ["Dogs", "Cat"],
+    degree: {
+        university: "UEFS", 
+        since: "2017.2",
+        status: "Undergraduate student"
+    }
+}
+```
