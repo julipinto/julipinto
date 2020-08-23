@@ -9,7 +9,7 @@
 
 </br>
 </br>
-<img width="500" align="right" src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif">
+<img width="300" align="right" src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif">
 
   ```javascript
 const developer = {
