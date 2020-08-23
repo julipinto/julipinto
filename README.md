@@ -2,7 +2,7 @@
 <h2 align="center"> Hey, whats up? I am Juliana Pinto  </h2>
 
 <p align="center">
-      English   |  <a href="./Juliapp/README-pt.md">Português</a>
+      English   |  <a href="https://github.com/Juliapp/Juliapp/blob/master/README-pt.md">Português</a>
  </p>
  
 <!--<img width="500" align="right" src="https://media1.tenor.com/images/4fbdf5a686e9c241e8f56d06c8902241/tenor.gif">-->
