@@ -2,12 +2,13 @@
 <h2 align="center"> Hey, whats up? I am Juliana Pinto  </h2>
 
 <p align="center">
-      English   |     <a href="README-pt.md">Português</a>
+      English   |  <a href="README-pt.md">Português</a>
  </p>
  
 <!--<img width="500" align="right" src="https://media1.tenor.com/images/4fbdf5a686e9c241e8f56d06c8902241/tenor.gif">-->
 
-<img width="450" align="right" src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif">
+</br>
+<img width="500" align="right" src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif">
 
 </br>
 
