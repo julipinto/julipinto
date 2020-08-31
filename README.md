@@ -5,6 +5,8 @@
       English   |  <a href="https://github.com/Juliapp/Juliapp/blob/master/README-pt.md">Português</a>
  </p>
  
+ [![HitCount](http://hits.dwyl.com/Juliapp/Juliapp.svg)](http://hits.dwyl.com/Juliapp/Juliapp)
+ 
 <!--<img width="500" align="right" src="https://media1.tenor.com/images/4fbdf5a686e9c241e8f56d06c8902241/tenor.gif">-->
 
 </br>
