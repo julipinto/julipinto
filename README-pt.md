@@ -24,7 +24,7 @@ const desenvolvedor = {
     graduação: {
         universidade: "UEFS", 
         desde: "2017.2",
-        estado: "Graduanda"
+        estado: "Em andamento"
     }
 }
 ```
