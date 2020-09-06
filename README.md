@@ -26,7 +26,7 @@ const developer = {
     degree: {
         university: "UEFS", 
         since: "2017.2",
-              status: "Currently in progress"
+        status: "Currently in progress"
     }
 }
 ```
