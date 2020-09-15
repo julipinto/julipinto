@@ -13,6 +13,7 @@
 </br>
 <img width="300" align="right" src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif">
 
+
   ```javascript
 const developer = {
     nickName: "Juli",
@@ -30,3 +31,6 @@ const developer = {
     }
 }
 ```
+### Listening to 🎧
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12147651958&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=12147651958&redirect=true)
