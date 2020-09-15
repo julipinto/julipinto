@@ -31,6 +31,9 @@ const developer = {
     }
 }
 ```
+
+<br />
+
 ### Listening to 🎧
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12147651958&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=12147651958&redirect=true)
