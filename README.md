@@ -5,8 +5,6 @@
       English   |  <a href="https://github.com/Juliapp/Juliapp/blob/master/README-pt.md">Português</a>
  </p>
  
- [![HitCount](http://hits.dwyl.com/Juliapp/Juliapp.svg)](http://hits.dwyl.com/Juliapp/Juliapp)
- 
 <!--<img width="500" align="right" src="https://media1.tenor.com/images/4fbdf5a686e9c241e8f56d06c8902241/tenor.gif">-->
 
 </br>
@@ -32,8 +30,27 @@ const developer = {
 }
 ```
 
+</br>
+</br>
+
+<h3 align="center"> :wrench: Languages and Tools</h3>
+<p align="center">
+      
+<img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5"  width="40" height="40"/>      
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="vsCode"  width="40" height="40"/>    
+<img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" alt="windows"  width="40" height="40"/>    
+</p>
+
 <br />
 
-### Listening to 🎧
+
+<p align="center">
+<h3 align="center">🎧 Listening to </h3>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12147651958&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=12147651958&redirect=true)
+</p>
