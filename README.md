@@ -44,11 +44,11 @@ const developer = {
 &nbsp &nbsp 
 <img src="https://devicon.dev/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="50" height="50"/>
 &nbsp &nbsp 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="50" height="50"/>
+<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80"/>
 &nbsp &nbsp 
-<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="50" height="50"/>
+<img src="https://devicon.dev/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 &nbsp &nbsp 
-<img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" alt="yarn" width="50" height="50"/>
+<img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original-wordmark.svg" alt="yarn" width="80"/>
 &nbsp &nbsp 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3"  width="50" height="50"/>
 &nbsp &nbsp 
