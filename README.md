@@ -29,7 +29,7 @@ const developer = {
     }
 }
 ```
-
+<br />
 <details>
     <summary align="left">💻 📊 🏆 GitHub Profile Stats</summary>
 <br />
@@ -38,7 +38,6 @@ const developer = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliapp&langs_count=8&layout=compact&theme=radical" width="365px" height="210" /> 
 </details>
 
-</br>
 
 <details>
     <summary align="left">:wrench: Languages and Tools</summary>
@@ -74,7 +73,7 @@ const developer = {
 </p>
 </details>
 
-<br />
+
 <details>
       <summary align="left">🎧 Listening to </summary>
 
