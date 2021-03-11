@@ -39,9 +39,10 @@ const developer = {
 </details>
 
 </br>
-</br>
 
 <h2 align="center"> :wrench: Languages and Tools</h2>
+<details>
+    <summary align="left">:wrench: Languages and Tools</summary>
 <h2>Main</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/javascript.svg" alt="javascript" width="50" height="50"/>
@@ -72,7 +73,7 @@ const developer = {
 &nbsp &nbsp 
 <img src="https://user-images.githubusercontent.com/34479004/110846356-7251e700-828a-11eb-84e3-73101bc4cb35.png" alt="docker" width="50"/>
 </p>
-
+</details>
 
 <br />
 <details>
