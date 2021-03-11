@@ -30,6 +30,14 @@ const developer = {
 }
 ```
 
+<details>
+    <summary align="left">💻 📊 🏆 GitHub Profile Stats</summary>
+<br />
+ <img src="https://github-readme-stats.vercel.app/api?username=Juliapp&show_icons=true&theme=radical&count_private=true" align="left" width="465px" height="210"/> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliapp&langs_count=8&layout=compact&theme=radical" width="365px" height="210" /> 
+</details>
+
 </br>
 </br>
 
@@ -65,16 +73,6 @@ const developer = {
 <img src="https://user-images.githubusercontent.com/34479004/110846356-7251e700-828a-11eb-84e3-73101bc4cb35.png" alt="docker" width="50"/>
 </p>
 
-<br />
-
-
-<details>
-    <summary align="left">💻 📊 🏆 GitHub Profile Stats</summary>
-<br />
- <img src="https://github-readme-stats.vercel.app/api?username=Juliapp&show_icons=true&theme=radical&count_private=true" align="left" width="465px" height="210"/> 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliapp&langs_count=8&layout=compact&theme=radical" width="365px" height="210" /> 
-</details>
 
 <br />
 <details>
