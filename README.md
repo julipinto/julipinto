@@ -40,7 +40,6 @@ const developer = {
 
 </br>
 
-<h2 align="center"> :wrench: Languages and Tools</h2>
 <details>
     <summary align="left">:wrench: Languages and Tools</summary>
 <h2>Main</h2>
