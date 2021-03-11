@@ -61,9 +61,17 @@ const developer = {
 
 <br />
 
+<details>
+    <summary align="left">💻 📊 🏆 GitHub Profile Stats</summary>
+<br />
+ <img src="https://github-readme-stats.vercel.app/api?username=Juliapp&show_icons=true&theme=radical&count_private=true" align="left" /> 
 
-<p align="center">
-<h3 align="center">🎧 Listening to </h3>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrmagalhaes&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+<details>
+      <summary align="left">🎧 Listening to </summary>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12147651958&cover_image=false)](https://spotify-github-profile.vercel.app/api/view?uid=12147651958&redirect=true)
-</p>
+</details>
