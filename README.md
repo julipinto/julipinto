@@ -40,15 +40,15 @@ const developer = {
 &nbsp &nbsp 
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/typescript.svg" alt="typescript" width="50" height="50"/>
 &nbsp &nbsp 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/c.svg" alt="C" width="50" height="50"/>
-&nbsp &nbsp 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/java.svg" alt="java" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/react.svg" alt="react" width="50" height="50"/>
 &nbsp &nbsp 
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/nodejs.svg" alt="nodejs" width="90" />
 &nbsp &nbsp 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/react.svg" alt="react" width="50" height="50"/>
-&nbsp &nbsp 
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/yarn.svg" alt="yarn" width="90"/>
+&nbsp &nbsp 
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/c.svg" alt="C" width="50" height="50"/>
+&nbsp &nbsp 
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/java.svg" alt="java" width="50" height="50"/>
 &nbsp &nbsp 
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/css.svg" alt="css3"  width="50" height="50"/>
 &nbsp &nbsp 
