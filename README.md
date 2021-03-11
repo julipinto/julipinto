@@ -41,6 +41,14 @@ const developer = {
 
 <details>
     <summary align="left">:wrench: Languages and Tools</summary>
+      <br />
+      
+Mainly working with | But I also do | Learning | Interested on
+------------------- | ------------- | -------- | -------------
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/javascript.svg" alt="javascript" width="50" /> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/typescript.svg" alt="typescript" width="50" height="50"/><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/react.svg" alt="react" width="50" height="50"/><br /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/nodejs.svg" alt="nodejs" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/c.svg" alt="C" width="50" height="50"/><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/java.svg" alt="java" width="50" height="50"/><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/css.svg" alt="css3"  width="50" height="50"/><br /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/html.svg" alt="html5"  width="50" height="50"/><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/python.svg" alt="python"  width="50" height="50"/>  |  <img src="https://user-images.githubusercontent.com/34479004/110846356-7251e700-828a-11eb-84e3-73101bc4cb35.png" alt="docker" width="50"/>  |  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/elixir.svg" alt="elixir" width="50"/> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/husky.svg" alt="husky" width="50"/>
+      
+      
+<!--
 <h2>Main</h2>
 <p align="center">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/javascript.svg" alt="javascript" width="50" height="50"/>
@@ -71,6 +79,7 @@ const developer = {
 &nbsp &nbsp 
 <img src="https://user-images.githubusercontent.com/34479004/110846356-7251e700-828a-11eb-84e3-73101bc4cb35.png" alt="docker" width="50"/>
 </p>
+-->
 </details>
 
 
