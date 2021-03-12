@@ -16,17 +16,18 @@
 const developer = {
     nickName: "Juli",
     pronouns: ["She", "Her"],
-    from: "Brazil, Bahia",
-    lenguages: ["Portuguese ", "English"],
+    from: "Bahia, Brazil",
+    lenguages: ["Portuguese", "English"],
     favoriteDataStructure: "JSON",
     favoriteCodeEditor: "VS Code",
     favoriteIceCreamFlavor: "Vanilla",
     pets: ["Dogs", "Cat"],
-    degree: {
+    degree: [{
         university: "UEFS", 
+        course: "Computer Engineering",
         since: "2017.2",
         status: "Currently in progress"
-    }
+    }]
 }
 ```
 <br />
