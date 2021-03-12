@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="300" height="300" version="1.1" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style>.icon-canvas-transparent{fill:#f6f6f6;opacity:0;}.icon-white{fill:#fff;}</style>
- </defs>
- <title>BrandVisualStudioCode</title>
- <path class="icon-canvas-transparent" d="m21.356 278.24v19.119h-19.119v-19.119z" opacity="0" stroke-width=".79661"/>
- <path d="m218.62 29.953-105.41 96.92-58.909-44.403l-24.346 14.17 58.068 53.359-58.068 53.359 24.346 14.212 58.909-44.402 105.41 96.878 51.424-24.976v-190.14zm0 63.744v112.6l-74.719-56.302z" fill="#2196f3" stroke-width="17.15"/>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50pt" height="50pt" viewBox="0 0 50 50" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(12.941176%,58.823529%,95.294118%);fill-opacity:1;" d="M 36.4375 4.992188 L 18.867188 21.144531 L 9.050781 13.746094 L 4.992188 16.105469 L 14.671875 25 L 4.992188 33.894531 L 9.050781 36.261719 L 18.867188 28.863281 L 36.4375 45.007812 L 45.007812 40.84375 L 45.007812 9.15625 Z M 36.4375 15.617188 L 36.4375 34.382812 L 23.984375 25 Z M 36.4375 15.617188 "/>
+</g>
 </svg>
