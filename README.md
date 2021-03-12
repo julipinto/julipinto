@@ -45,41 +45,8 @@ const developer = {
       
 Mainly working with | But I also do | Learning | Interested on | Tools I Like
 ------------------- | ------------- | -------- | ------------- | ------------
-<img src="/assets/javascript.svg" alt="javascript" width="50" /> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/typescript.svg" alt="typescript" width="50" height="50"/><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/react.svg" alt="react" width="50" height="50"/><br /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/nodejs.svg" alt="nodejs" width="50" height="50"/> | <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/c.svg" alt="C" width="50" height="50"/><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/java.svg" alt="java" width="50" height="50"/><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/css.svg" alt="css3"  width="50" height="50"/><br /><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/html.svg" alt="html5"  width="50" height="50"/><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/python.svg" alt="python"  width="50" height="50"/>  |  <img src="https://user-images.githubusercontent.com/34479004/110846356-7251e700-828a-11eb-84e3-73101bc4cb35.png" alt="docker" width="50"/>  |  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/elixir.svg" alt="elixir" width="50"/> <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/husky.svg" alt="husky" width="50"/>   |    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/vscode.svg" alt="vsCode"  width="50" height="50"/><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/yarn.svg" alt="yarn" width="50"/>
+<img src="/assets/javascript.svg" alt="javascript" width="50" /> <img src="/assets/typescript.svg" alt="typescript" width="50"/><img src="/assets/react.svg" alt="react" width="50"/><br /><img src="/assets/nodejs.svg" alt="nodejs" width="50"/> | <img src="/assets/c.svg" alt="C" width="50"/><img src="/assets/java.svg" alt="java" width="50"/><img src="/assets/css.svg" alt="css3"  width="50"/> <br /> <img src="/assets/html.svg" alt="html5"  width="50"/> <img src="/assets/python.svg" alt="python" width="50"/>  |  <img src="/assets/docker.svg" alt="docker" width="50"/> <img src="/assets/husky.svg" alt="husky" width="50"/> <img src="/assets/cucumber.svg" alt="cucumber" width="50"/>|  <img src="/assets/elixir.svg" alt="elixir" width="50"/>  <img src="/assets/firebase.svg" alt="firebase" width="50"/> <br />  <mg src="/assets/heroku.svg" alt="heroku" width="50"/>  |   <img src="/assets/vscode.svg" alt="vsCode"  width="50" /> <img src="/assets/yarn.svg" alt="yarn" width="50"/> <img src="/assets/eslint.svg" alt="eslint" width="50"/> <br /> <img src="/assets/git.svg" alt="git" width="50"/>
       
-      
-<!--
-<h2>Main</h2>
-<p align="center">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/javascript.svg" alt="javascript" width="50" height="50"/>
-&nbsp &nbsp 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/typescript.svg" alt="typescript" width="50" height="50"/>
-&nbsp &nbsp 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/react.svg" alt="react" width="50" height="50"/>
-&nbsp &nbsp 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/nodejs.svg" alt="nodejs" width="50" height="50"/>
-</p>
-<h2>I also do...</h2>
-<p align="center">
-&nbsp &nbsp 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/c.svg" alt="C" width="50" height="50"/>
-&nbsp &nbsp 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/java.svg" alt="java" width="50" height="50"/>
-&nbsp &nbsp 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/css.svg" alt="css3"  width="50" height="50"/>
-&nbsp &nbsp 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/html.svg" alt="html5"  width="50" height="50"/>  
-</p>
-<h2>More spiciness</h2>
-<p align="center">
-&nbsp &nbsp 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/vscode.svg" alt="vsCode"  width="50" height="50"/>
-&nbsp &nbsp 
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/f786981171128460a3b1f3698e573e397da30c35/icons/yarn.svg" alt="yarn" width="50"/>
-&nbsp &nbsp 
-<img src="https://user-images.githubusercontent.com/34479004/110846356-7251e700-828a-11eb-84e3-73101bc4cb35.png" alt="docker" width="50"/>
-</p>
--->
 </details>
 
 
