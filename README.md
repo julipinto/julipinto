@@ -34,9 +34,9 @@ const developer = {
 <details>
       <summary align="left">💻 📊 🏆 GitHub Profile Stats</summary>
       <div>
-            <img src="https://github-readme-stats.vercel.app/api?username=Juliapp&show_icons=true&theme=radical&count_private=true" align="left" width="465px" height="210"/> 
-            <img src="https://github-readme-streak-stats.herokuapp.com?user=Juliapp&theme=radical&date_format=M%20j%5B%2C%20Y%5D" align="left" width="465px" height="210"/> 
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliapp&langs_count=8&layout=compact&theme=radical" width="365px" height="210" /> 
+            <img src="https://github-readme-stats.vercel.app/api?username=julipinto&show_icons=true&theme=radical&count_private=true" align="left" width="465px" height="210"/> 
+            <img src="https://github-readme-streak-stats.herokuapp.com?user=julipinto&theme=radical&date_format=M%20j%5B%2C%20Y%5D" align="left" width="465px" height="210"/> 
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julipinto&langs_count=8&layout=compact&theme=radical" width="365px" height="210" /> 
       </div>
 </details>
 
