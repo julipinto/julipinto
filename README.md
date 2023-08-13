@@ -24,7 +24,7 @@ const developer = {
     pets: ["🐶 Barão", "🐶 Vênus", "🐱 Toddy"],
     degree: [{
         university: "UEFS", 
-        course: "Computer Engineering",
+        course: "Computer Engineering BA",
         since: "2017.2",
         status: "Currently in progress"
     }]
