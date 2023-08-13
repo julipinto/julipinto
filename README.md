@@ -21,7 +21,7 @@ const developer = {
     favoriteDataStructure: "JSON",
     favoriteCodeEditor: "VS Code",
     favoriteIceCreamFlavor: "Vanilla",
-    pets: ["Dogs", "Cat"],
+    pets: ["🐶 Barão", "🐶 Vênus", "🐱 Toddy"],
     degree: [{
         university: "UEFS", 
         course: "Computer Engineering",
