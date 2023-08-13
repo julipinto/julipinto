@@ -20,7 +20,7 @@ const desenvolvedor = {
     estruturaDeDadosFavorita: "JSON",
     editorDeCodigoFavorito: "VS Code",
     saborDeSorveteFavorito: "Baunilha",
-    animais: ["Cachorros", "Gato"],
+    animais: ["🐶 Barão", "🐶 Vênus", "🐱 Toddy"],
     graduação: [{
         universidade: "UEFS", 
         curso: "Engenharia de Computação",
