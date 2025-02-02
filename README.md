@@ -17,7 +17,7 @@ const developer = {
     nickName: "Juli",
     pronouns: ["She", "Her"],
     from: "Bahia, Brazil",
-    lenguages: ["Portuguese", "English"],
+    languages: ["Portuguese", "English"],
     favoriteCodeEditor: "VS Code",
     favoriteIceCreamFlavor: "Vanilla",
     pets: ["🐶 Barão", "🐶 Vênus", "🐱 Toddy"],
