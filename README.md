@@ -18,15 +18,13 @@ const developer = {
     pronouns: ["She", "Her"],
     from: "Bahia, Brazil",
     lenguages: ["Portuguese", "English"],
-    favoriteDataStructure: "JSON",
     favoriteCodeEditor: "VS Code",
     favoriteIceCreamFlavor: "Vanilla",
     pets: ["🐶 Barão", "🐶 Vênus", "🐱 Toddy"],
     degree: [{
-        university: "UEFS", 
+        school: "Universidade Estadual de Feira de Santana (UEFS)", 
         course: "Computer Engineering BA",
-        since: "2017.2",
-        status: "Currently in progress"
+        status: "completed"
     }]
 }
 ```
