@@ -17,15 +17,13 @@ const desenvolvedor = {
     pronome: ["Ela", "Dela"],
     local: "Bahia, Brasil",
     idiomas: ["Português", "Inglês"],
-    estruturaDeDadosFavorita: "JSON",
     editorDeCodigoFavorito: "VS Code",
     saborDeSorveteFavorito: "Baunilha",
     animais: ["🐶 Barão", "🐶 Vênus", "🐱 Toddy"],
     graduação: [{
-        universidade: "UEFS", 
-        curso: "Engenharia de Computação",
-        desde: "2017.2",
-        estado: "Em andamento"
+        universidade: "Universidade Estadual de Feira de Santana (UEFS)", 
+        curso: "Bacharelado em Engenharia de Computação",
+        estado: "comppleto"
     }]
 }
 ```
