@@ -16,7 +16,7 @@
 const developer = {
     nickName: "Juli",
     pronouns: ["She", "Her"],
-    from: "Bahia, Brazil",
+    placedAt: "Bahia, Brazil",
     languages: ["Portuguese", "English"],
     favoriteCodeEditor: "VS Code",
     favoriteIceCreamFlavor: "Vanilla",
